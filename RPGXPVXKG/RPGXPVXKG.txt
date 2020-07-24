@@ -1,0 +1,10 @@
+1.Click Already Paid.
+2.Click Generate Code.
+3.Enter Serial
+4.Click Print Web
+5.Copy and paste URL in to your keygen
+6.Click generate Activation code
+7.Then click submit auth code or w.e
+8.Enter the code and it should say 'thank you for buying!'
+
+Tested and Working
